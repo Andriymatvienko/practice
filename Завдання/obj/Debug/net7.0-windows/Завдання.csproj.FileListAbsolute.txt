@@ -1,0 +1,34 @@
+C:\Users\dadai\Desktop\учеба\ООП\Практичне завд №3\Завдання\Завдання\obj\Debug\net7.0-windows\Завдання.csproj.AssemblyReference.cache
+C:\Users\dadai\Desktop\учеба\ООП\Практичне завд №3\Завдання\Завдання\obj\Debug\net7.0-windows\Завдання.FrmClasses.resources
+C:\Users\dadai\Desktop\учеба\ООП\Практичне завд №3\Завдання\Завдання\obj\Debug\net7.0-windows\Завдання.csproj.GenerateResource.cache
+C:\Users\dadai\Desktop\учеба\ООП\Практичне завд №3\Завдання\Завдання\obj\Debug\net7.0-windows\Завдання.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dadai\Desktop\учеба\ООП\Практичне завд №3\Завдання\Завдання\obj\Debug\net7.0-windows\Завдання.AssemblyInfoInputs.cache
+C:\Users\dadai\Desktop\учеба\ООП\Практичне завд №3\Завдання\Завдання\obj\Debug\net7.0-windows\Завдання.AssemblyInfo.cs
+C:\Users\dadai\Desktop\учеба\ООП\Практичне завд №3\Завдання\Завдання\obj\Debug\net7.0-windows\Завдання.csproj.CoreCompileInputs.cache
+C:\Users\dadai\Desktop\учеба\ООП\Практичне завд №3\Завдання\Завдання\bin\Debug\net7.0-windows\Завдання.exe
+C:\Users\dadai\Desktop\учеба\ООП\Практичне завд №3\Завдання\Завдання\bin\Debug\net7.0-windows\Завдання.deps.json
+C:\Users\dadai\Desktop\учеба\ООП\Практичне завд №3\Завдання\Завдання\bin\Debug\net7.0-windows\Завдання.runtimeconfig.json
+C:\Users\dadai\Desktop\учеба\ООП\Практичне завд №3\Завдання\Завдання\bin\Debug\net7.0-windows\Завдання.dll
+C:\Users\dadai\Desktop\учеба\ООП\Практичне завд №3\Завдання\Завдання\bin\Debug\net7.0-windows\Завдання.pdb
+C:\Users\dadai\Desktop\учеба\ООП\Практичне завд №3\Завдання\Завдання\obj\Debug\net7.0-windows\Завдання.dll
+C:\Users\dadai\Desktop\учеба\ООП\Практичне завд №3\Завдання\Завдання\obj\Debug\net7.0-windows\refint\Завдання.dll
+C:\Users\dadai\Desktop\учеба\ООП\Практичне завд №3\Завдання\Завдання\obj\Debug\net7.0-windows\Завдання.pdb
+C:\Users\dadai\Desktop\учеба\ООП\Практичне завд №3\Завдання\Завдання\obj\Debug\net7.0-windows\Завдання.genruntimeconfig.cache
+C:\Users\dadai\Desktop\учеба\ООП\Практичне завд №3\Завдання\Завдання\obj\Debug\net7.0-windows\ref\Завдання.dll
+C:\Users\dadai\Desktop\учеба\ООП\pamparam\Завдання\bin\Debug\net7.0-windows\Завдання.exe
+C:\Users\dadai\Desktop\учеба\ООП\pamparam\Завдання\bin\Debug\net7.0-windows\Завдання.deps.json
+C:\Users\dadai\Desktop\учеба\ООП\pamparam\Завдання\bin\Debug\net7.0-windows\Завдання.runtimeconfig.json
+C:\Users\dadai\Desktop\учеба\ООП\pamparam\Завдання\bin\Debug\net7.0-windows\Завдання.dll
+C:\Users\dadai\Desktop\учеба\ООП\pamparam\Завдання\bin\Debug\net7.0-windows\Завдання.pdb
+C:\Users\dadai\Desktop\учеба\ООП\pamparam\Завдання\obj\Debug\net7.0-windows\Завдання.csproj.AssemblyReference.cache
+C:\Users\dadai\Desktop\учеба\ООП\pamparam\Завдання\obj\Debug\net7.0-windows\Завдання.FrmClasses.resources
+C:\Users\dadai\Desktop\учеба\ООП\pamparam\Завдання\obj\Debug\net7.0-windows\Завдання.csproj.GenerateResource.cache
+C:\Users\dadai\Desktop\учеба\ООП\pamparam\Завдання\obj\Debug\net7.0-windows\Завдання.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dadai\Desktop\учеба\ООП\pamparam\Завдання\obj\Debug\net7.0-windows\Завдання.AssemblyInfoInputs.cache
+C:\Users\dadai\Desktop\учеба\ООП\pamparam\Завдання\obj\Debug\net7.0-windows\Завдання.AssemblyInfo.cs
+C:\Users\dadai\Desktop\учеба\ООП\pamparam\Завдання\obj\Debug\net7.0-windows\Завдання.csproj.CoreCompileInputs.cache
+C:\Users\dadai\Desktop\учеба\ООП\pamparam\Завдання\obj\Debug\net7.0-windows\Завдання.dll
+C:\Users\dadai\Desktop\учеба\ООП\pamparam\Завдання\obj\Debug\net7.0-windows\refint\Завдання.dll
+C:\Users\dadai\Desktop\учеба\ООП\pamparam\Завдання\obj\Debug\net7.0-windows\Завдання.pdb
+C:\Users\dadai\Desktop\учеба\ООП\pamparam\Завдання\obj\Debug\net7.0-windows\Завдання.genruntimeconfig.cache
+C:\Users\dadai\Desktop\учеба\ООП\pamparam\Завдання\obj\Debug\net7.0-windows\ref\Завдання.dll
